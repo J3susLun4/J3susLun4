@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Jesus%20Luna&fontSize=70&theme=tokyonight" alt="Banner Jesus" />
+</p>
+
 # ¡Hola! Soy Jesus Luna 👋
 
 ### 🚀 Sobre mí
@@ -19,19 +23,22 @@ Aquí están algunas de las tecnologías que utilizo en mis proyectos:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J3susLun4&theme=tokyonight&hide_border=true" alt="Estadísticas de contribución de J3susLun4" />
+**IDEs y Entorno:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans&logoColor=white" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/XAMPP-FB3E44?style=flat&logo=xampp&logoColor=white" alt="XAMPP" />
+  <img src="https://img.shields.io/badge/Windows_11-0078d4?style=flat&logo=windows-11&logoColor=white" alt="Windows 11" />
 </p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Debian_12-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian" />
 
 ---
 
