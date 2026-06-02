@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=200&section=header&text=Jesus%20Luna&fontSize=70&theme=tokyonight" alt="Banner Jesus" />
+  <img src="banner.png" alt="Banner de Jesús Luna" />
 </p>
 
 # ¡Hola! Soy Jesus Luna 👋
