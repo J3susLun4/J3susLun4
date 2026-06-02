@@ -30,7 +30,7 @@ Aquí están algunas de las tecnologías que utilizo en mis proyectos:
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J3susLun4&show_icons=true&theme=tokyonight&v=1" alt="Estadísticas de J3susLun4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=J3susLun4&theme=tokyonight&hide_border=true" alt="Estadísticas de contribución de J3susLun4" />
 </p>
 
 ---
