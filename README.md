@@ -44,7 +44,7 @@ Aquí están algunas de las tecnologías que utilizo en mis proyectos:
   <a href="https://www.instagram.com/jesus_.luna1/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:contact.jesusluna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+
+📧 **Correo electrónico de contacto:**
+```text
+contact.jesusluna@gmail.com
